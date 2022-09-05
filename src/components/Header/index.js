@@ -26,7 +26,7 @@ const Header = () => {
           Servicios
         </MenuLink>
         <hr class="menu" />
-        <MenuLink href="#contacto" className="tercero">
+        <MenuLink href="#contact" className="tercero">
           Contáctanos
         </MenuLink>
         <hr class="menu" />
