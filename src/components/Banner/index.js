@@ -18,7 +18,7 @@ const Banner = () => {
             hogar.
           </p>
           <section id="section05" class="demo">
-            <a href="#about">
+            <a href="#acerca">
               <span></span>
             </a>
           </section>

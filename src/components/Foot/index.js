@@ -7,6 +7,7 @@ const Foot = () => (
     <Content>
       <Red href="https://www.facebook.com/Mobimax-106675260947853">
         <FontAwesomeIcon icon={faFacebookF} />
+        <p>MOBIMAX</p>
       </Red>
       <p>© Copyright 2022 MOBIMAX</p>
     </Content>

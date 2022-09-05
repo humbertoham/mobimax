@@ -19,13 +19,13 @@ export const Content = styled.div`
     font-family: "Poppins", sans-serif;
     font-size: var(--fontSuperBig);
     margin: 0;
-    color: var(--brown);
+    color: var(--black);
     @media screen and (max-width: 720px) {
       font-size: var(--fontBig);
     }
   }
   p {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Poppins", sans-serif;
     padding: 15px;
     font-weight: 300;
     font-size: var(--fontMed);
@@ -121,7 +121,7 @@ export const Page = styled.img`
   margin: auto;
   border-radius: 25px;
 
-  border: solid 5px var(--yellow);
+  border: solid 5px var(--black);
   @media screen and (max-width: 720px) {
     width: 100%;
   }

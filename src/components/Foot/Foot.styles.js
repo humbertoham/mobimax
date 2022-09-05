@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   background-color: var(--black);
-  height: 100px;
+  height: 130px;
 `;
 
 export const Content = styled.div`
@@ -17,7 +17,15 @@ export const Content = styled.div`
   }
 `;
 export const Red = styled.a`
-  font-size: 1.5rem;
+  p {
+    margin-left:10px ;
+    display: inline;
+    font-size: 2rem;
+    color: #fff;
+    font-family: "Poppins";
+    font-weight: 900;
+  }
+  font-size: 2rem;
   padding: 10px;
   color: var(--white);
   text-decoration: none;

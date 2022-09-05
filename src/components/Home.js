@@ -6,8 +6,7 @@ import Contact from "./Contact";
 import Map from "./Map";
 import Section from "./Section";
 import Work from "./Work";
-import Exa from "./Exa";
-import Examples from "./Examples";
+import Gallery from "./Gallery";
 
 const Home = () => {
   return (
@@ -16,8 +15,7 @@ const Home = () => {
       <About />
       <Section />
       <Work />
-      <Exa />
-      <Examples />
+      <Gallery />
       <Contact />
       <Map />
     </>
